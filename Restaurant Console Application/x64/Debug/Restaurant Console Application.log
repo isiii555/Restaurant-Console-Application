@@ -1,0 +1,40 @@
+﻿  Restaurant Console Application.cpp
+C:\Users\user\OneDrive\Masaüstü\ShipShare\Restaurant Console Application\Restaurant Console Application\Ingredient.h(168,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Restaurant%20Console%20Application.cpp')
+  
+D:\Microsoft Visual Studio\VC\Tools\MSVC\14.38.33130\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\user\OneDrive\Masaüstü\ShipShare\Restaurant Console Application\Restaurant Console Application\Functions.h(249,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Restaurant%20Console%20Application.cpp')
+  
+C:\Users\user\OneDrive\Masaüstü\ShipShare\Restaurant Console Application\Restaurant Console Application\Functions.h(253,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Restaurant%20Console%20Application.cpp')
+  
+C:\Users\user\OneDrive\Masaüstü\ShipShare\Restaurant Console Application\Restaurant Console Application\Functions.h(268,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Restaurant%20Console%20Application.cpp')
+  
+C:\Users\user\OneDrive\Masaüstü\ShipShare\Restaurant Console Application\Restaurant Console Application\Functions.h(272,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Restaurant%20Console%20Application.cpp')
+  
+C:\Users\user\OneDrive\Masaüstü\ShipShare\Restaurant Console Application\Restaurant Console Application\Functions.h(481,21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Restaurant%20Console%20Application.cpp')
+  
+C:\Users\user\OneDrive\Masaüstü\ShipShare\Restaurant Console Application\Restaurant Console Application\Functions.h(510,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Restaurant%20Console%20Application.cpp')
+  
+C:\Users\user\OneDrive\Masaüstü\ShipShare\Restaurant Console Application\Restaurant Console Application\Functions.h(525,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Restaurant%20Console%20Application.cpp')
+  
+C:\Users\user\OneDrive\Masaüstü\ShipShare\Restaurant Console Application\Restaurant Console Application\Functions.h(525,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Restaurant%20Console%20Application.cpp')
+  
+C:\Users\user\OneDrive\Masaüstü\ShipShare\Restaurant Console Application\Restaurant Console Application\Functions.h(544,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Restaurant%20Console%20Application.cpp')
+  
+C:\Users\user\OneDrive\Masaüstü\ShipShare\Restaurant Console Application\Restaurant Console Application\Functions.h(498,3): warning C4102: 'labelpayment': unreferenced label
+  (compiling source file 'Restaurant%20Console%20Application.cpp')
+  
+C:\Users\user\OneDrive\Masaüstü\ShipShare\Restaurant Console Application\Restaurant Console Application\Functions.h(1102,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  (compiling source file 'Restaurant%20Console%20Application.cpp')
+  
+C:\Users\user\OneDrive\Masaüstü\ShipShare\Restaurant Console Application\Restaurant Console Application\Functions.h(405): warning C4715: 'SignUp': not all control paths return a value
+  Restaurant Console Application.vcxproj -> C:\Users\user\OneDrive\Masaüstü\ShipShare\Restaurant Console Application\x64\Debug\Restaurant Console Application.exe
